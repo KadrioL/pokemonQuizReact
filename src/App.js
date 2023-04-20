@@ -1,10 +1,7 @@
 import './App.css';
 import Table from './components/Table.js';
 import React, { useState, useEffect } from 'react';
-import { pokemonGen1 } from './components/Table.js';
-import { pokemonGen2 } from './components/Table.js';
-import { pokemonGen3 } from './components/Table.js';
-import { pokemonGen4 } from './components/Table.js';
+import { pokemonGen1, pokemonGen2, pokemonGen3, pokemonGen4 } from './components/Table.js';
 
 function App() {
   const [selectedGeneration, setSelectedGeneration] = useState(1);
