@@ -1,0 +1,402 @@
+[
+    {
+      "pkdxnr": "1",
+      "name": "endivie"
+    },
+    {
+      "pkdxnr": "2",
+      "name": "lorblatt"
+    },
+    {
+      "pkdxnr": "3",
+      "name": "meganie"
+    },
+    {
+      "pkdxnr": "4",
+      "name": "feurigel"
+    },
+    {
+      "pkdxnr": "5",
+      "name": "igelavar"
+    },
+    {
+      "pkdxnr": "6",
+      "name": "tornupto"
+    },
+    {
+      "pkdxnr": "7",
+      "name": "karnimani"
+    },
+    {
+      "pkdxnr": "8",
+      "name": "tyracroc"
+    },
+    {
+      "pkdxnr": "9",
+      "name": "impergator"
+    },
+    {
+      "pkdxnr": "10",
+      "name": "wiesor"
+    },
+    {
+      "pkdxnr": "11",
+      "name": "wiesenior"
+    },
+    {
+      "pkdxnr": "12",
+      "name": "hoothoot"
+    },
+    {
+      "pkdxnr": "13",
+      "name": "noctuh"
+    },
+    {
+      "pkdxnr": "14",
+      "name": "ledyba"
+    },
+    {
+      "pkdxnr": "15",
+      "name": "ledian"
+    },
+    {
+      "pkdxnr": "16",
+      "name": "webarak"
+    },
+    {
+      "pkdxnr": "17",
+      "name": "ariados"
+    },
+    {
+      "pkdxnr": "18",
+      "name": "iksbat"
+    },
+    {
+      "pkdxnr": "19",
+      "name": "lampi"
+    },
+    {
+      "pkdxnr": "20",
+      "name": "lanturn"
+    },
+    {
+      "pkdxnr": "21",
+      "name": "pichu"
+    },
+    {
+      "pkdxnr": "22",
+      "name": "pii"
+    },
+    {
+      "pkdxnr": "23",
+      "name": "fluffeluff"
+    },
+    {
+      "pkdxnr": "24",
+      "name": "togepi"
+    },
+    {
+      "pkdxnr": "25",
+      "name": "togetic"
+    },
+    {
+      "pkdxnr": "26",
+      "name": "natu"
+    },
+    {
+      "pkdxnr": "27",
+      "name": "xatu"
+    },
+    {
+      "pkdxnr": "28",
+      "name": "voltilamm"
+    },
+    {
+      "pkdxnr": "29",
+      "name": "waaty"
+    },
+    {
+      "pkdxnr": "30",
+      "name": "ampharos"
+    },
+    {
+      "pkdxnr": "31",
+      "name": "blubella"
+    },
+    {
+      "pkdxnr": "32",
+      "name": "marill"
+    },
+    {
+      "pkdxnr": "33",
+      "name": "azumarill"
+    },
+    {
+      "pkdxnr": "34",
+      "name": "mogelbaum"
+    },
+    {
+      "pkdxnr": "35",
+      "name": "quaxo"
+    },
+    {
+      "pkdxnr": "36",
+      "name": "hoppspross"
+    },
+    {
+      "pkdxnr": "37",
+      "name": "hubelupf"
+    },
+    {
+      "pkdxnr": "38",
+      "name": "papungha"
+    },
+    {
+      "pkdxnr": "39",
+      "name": "griffel"
+    },
+    {
+      "pkdxnr": "40",
+      "name": "sonnkern"
+    },
+    {
+      "pkdxnr": "41",
+      "name": "sonnflora"
+    },
+    {
+      "pkdxnr": "42",
+      "name": "yanma"
+    },
+    {
+      "pkdxnr": "43",
+      "name": "felino"
+    },
+    {
+      "pkdxnr": "44",
+      "name": "morlord"
+    },
+    {
+      "pkdxnr": "45",
+      "name": "psiana"
+    },
+    {
+      "pkdxnr": "46",
+      "name": "nachtara"
+    },
+    {
+      "pkdxnr": "47",
+      "name": "kramurx"
+    },
+    {
+      "pkdxnr": "48",
+      "name": "laschoking"
+    },
+    {
+      "pkdxnr": "49",
+      "name": "traunfugil"
+    },
+    {
+      "pkdxnr": "50",
+      "name": "icognito"
+    },
+    {
+      "pkdxnr": "51",
+      "name": "woingenau"
+    },
+    {
+      "pkdxnr": "52",
+      "name": "girafarig"
+    },
+    {
+      "pkdxnr": "53",
+      "name": "tannza"
+    },
+    {
+      "pkdxnr": "54",
+      "name": "forstellka"
+    },
+    {
+      "pkdxnr": "55",
+      "name": "dummisel"
+    },
+    {
+      "pkdxnr": "56",
+      "name": "skorgla"
+    },
+    {
+      "pkdxnr": "57",
+      "name": "stahlos"
+    },
+    {
+      "pkdxnr": "58",
+      "name": "snubbull"
+    },
+    {
+      "pkdxnr": "59",
+      "name": "granbull"
+    },
+    {
+      "pkdxnr": "60",
+      "name": "baldorfish"
+    },
+    {
+      "pkdxnr": "61",
+      "name": "scherox"
+    },
+    {
+      "pkdxnr": "62",
+      "name": "pottrott"
+    },
+    {
+      "pkdxnr": "63",
+      "name": "skaraborn"
+    },
+    {
+      "pkdxnr": "64",
+      "name": "sniebel"
+    },
+    {
+      "pkdxnr": "65",
+      "name": "teddiursa"
+    },
+    {
+      "pkdxnr": "66",
+      "name": "ursaring"
+    },
+    {
+      "pkdxnr": "67",
+      "name": "schneckmag"
+    },
+    {
+      "pkdxnr": "68",
+      "name": "magcargo"
+    },
+    {
+      "pkdxnr": "69",
+      "name": "quiekel"
+    },
+    {
+      "pkdxnr": "70",
+      "name": "keifel"
+    },
+    {
+      "pkdxnr": "71",
+      "name": "corasonn"
+    },
+    {
+      "pkdxnr": "72",
+      "name": "remoraid"
+    },
+    {
+      "pkdxnr": "73",
+      "name": "octillery"
+    },
+    {
+      "pkdxnr": "74",
+      "name": "botogel"
+    },
+    {
+      "pkdxnr": "75",
+      "name": "mantax"
+    },
+    {
+      "pkdxnr": "76",
+      "name": "panzaeron"
+    },
+    {
+      "pkdxnr": "77",
+      "name": "hunduster"
+    },
+    {
+      "pkdxnr": "78",
+      "name": "hundemon"
+    },
+    {
+      "pkdxnr": "79",
+      "name": "seedraking"
+    },
+    {
+      "pkdxnr": "80",
+      "name": "phanpy"
+    },
+    {
+      "pkdxnr": "81",
+      "name": "donphan"
+    },
+    {
+      "pkdxnr": "82",
+      "name": "porygon-"
+    },
+    {
+      "pkdxnr": "83",
+      "name": "damhirplex"
+    },
+    {
+      "pkdxnr": "84",
+      "name": "farbeagle"
+    },
+    {
+      "pkdxnr": "85",
+      "name": "rabauz"
+    },
+    {
+      "pkdxnr": "86",
+      "name": "kapoera"
+    },
+    {
+      "pkdxnr": "87",
+      "name": "kussilla"
+    },
+    {
+      "pkdxnr": "88",
+      "name": "elekid"
+    },
+    {
+      "pkdxnr": "89",
+      "name": "magby"
+    },
+    {
+      "pkdxnr": "90",
+      "name": "miltank"
+    },
+    {
+      "pkdxnr": "91",
+      "name": "heiteira"
+    },
+    {
+      "pkdxnr": "92",
+      "name": "raikou"
+    },
+    {
+      "pkdxnr": "93",
+      "name": "entei"
+    },
+    {
+      "pkdxnr": "94",
+      "name": "suicune"
+    },
+    {
+      "pkdxnr": "95",
+      "name": "larvitar"
+    },
+    {
+      "pkdxnr": "96",
+      "name": "pupitar"
+    },
+    {
+      "pkdxnr": "97",
+      "name": "despotar"
+    },
+    {
+      "pkdxnr": "98",
+      "name": "lugia"
+    },
+    {
+      "pkdxnr": "99",
+      "name": "ho-oh"
+    },
+    {
+      "pkdxnr": "100",
+      "name": "celebi"
+    }
+  ]

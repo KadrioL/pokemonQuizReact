@@ -1,0 +1,542 @@
+[
+    {
+      "pkdxnr": "1",
+      "name": "geckarbor"
+    },
+    {
+      "pkdxnr": "2",
+      "name": "reptain"
+    },
+    {
+      "pkdxnr": "3",
+      "name": "gewaldro"
+    },
+    {
+      "pkdxnr": "4",
+      "name": "flemmli"
+    },
+    {
+      "pkdxnr": "5",
+      "name": "jungglut"
+    },
+    {
+      "pkdxnr": "6",
+      "name": "lohgock"
+    },
+    {
+      "pkdxnr": "7",
+      "name": "hydropi"
+    },
+    {
+      "pkdxnr": "8",
+      "name": "moorabbel"
+    },
+    {
+      "pkdxnr": "9",
+      "name": "sumpex"
+    },
+    {
+      "pkdxnr": "10",
+      "name": "fiffyen"
+    },
+    {
+      "pkdxnr": "11",
+      "name": "magnayen"
+    },
+    {
+      "pkdxnr": "12",
+      "name": "zigzachs"
+    },
+    {
+      "pkdxnr": "13",
+      "name": "geradaks"
+    },
+    {
+      "pkdxnr": "14",
+      "name": "waumpel"
+    },
+    {
+      "pkdxnr": "15",
+      "name": "schaloko"
+    },
+    {
+      "pkdxnr": "16",
+      "name": "papinella"
+    },
+    {
+      "pkdxnr": "17",
+      "name": "panekon"
+    },
+    {
+      "pkdxnr": "18",
+      "name": "pudox"
+    },
+    {
+      "pkdxnr": "19",
+      "name": "loturzel"
+    },
+    {
+      "pkdxnr": "20",
+      "name": "lombrero"
+    },
+    {
+      "pkdxnr": "21",
+      "name": "kappalores"
+    },
+    {
+      "pkdxnr": "22",
+      "name": "samurzel"
+    },
+    {
+      "pkdxnr": "23",
+      "name": "blanas"
+    },
+    {
+      "pkdxnr": "24",
+      "name": "tengulist"
+    },
+    {
+      "pkdxnr": "25",
+      "name": "schwalbini"
+    },
+    {
+      "pkdxnr": "26",
+      "name": "schwalboss"
+    },
+    {
+      "pkdxnr": "27",
+      "name": "wingull"
+    },
+    {
+      "pkdxnr": "28",
+      "name": "pelipper"
+    },
+    {
+      "pkdxnr": "29",
+      "name": "trasla"
+    },
+    {
+      "pkdxnr": "30",
+      "name": "kirlia"
+    },
+    {
+      "pkdxnr": "31",
+      "name": "guardevoir"
+    },
+    {
+      "pkdxnr": "32",
+      "name": "geweiher"
+    },
+    {
+      "pkdxnr": "33",
+      "name": "maskeregen"
+    },
+    {
+      "pkdxnr": "34",
+      "name": "knilz"
+    },
+    {
+      "pkdxnr": "35",
+      "name": "kapilz"
+    },
+    {
+      "pkdxnr": "36",
+      "name": "bummelz"
+    },
+    {
+      "pkdxnr": "37",
+      "name": "muntier"
+    },
+    {
+      "pkdxnr": "38",
+      "name": "letarking"
+    },
+    {
+      "pkdxnr": "39",
+      "name": "nincada"
+    },
+    {
+      "pkdxnr": "40",
+      "name": "ninjask"
+    },
+    {
+      "pkdxnr": "41",
+      "name": "ninjatom"
+    },
+    {
+      "pkdxnr": "42",
+      "name": "flurmel"
+    },
+    {
+      "pkdxnr": "43",
+      "name": "krakeelo"
+    },
+    {
+      "pkdxnr": "44",
+      "name": "krawumms"
+    },
+    {
+      "pkdxnr": "45",
+      "name": "makuhita"
+    },
+    {
+      "pkdxnr": "46",
+      "name": "hariyama"
+    },
+    {
+      "pkdxnr": "47",
+      "name": "azurill"
+    },
+    {
+      "pkdxnr": "48",
+      "name": "nasgnet"
+    },
+    {
+      "pkdxnr": "49",
+      "name": "eneco"
+    },
+    {
+      "pkdxnr": "50",
+      "name": "enekoro"
+    },
+    {
+      "pkdxnr": "51",
+      "name": "zobiris"
+    },
+    {
+      "pkdxnr": "52",
+      "name": "flunkifer"
+    },
+    {
+      "pkdxnr": "53",
+      "name": "stollunior"
+    },
+    {
+      "pkdxnr": "54",
+      "name": "stollrak"
+    },
+    {
+      "pkdxnr": "55",
+      "name": "stolloss"
+    },
+    {
+      "pkdxnr": "56",
+      "name": "meditie"
+    },
+    {
+      "pkdxnr": "57",
+      "name": "meditalis"
+    },
+    {
+      "pkdxnr": "58",
+      "name": "frizelbliz"
+    },
+    {
+      "pkdxnr": "59",
+      "name": "voltenso"
+    },
+    {
+      "pkdxnr": "60",
+      "name": "plusle"
+    },
+    {
+      "pkdxnr": "61",
+      "name": "minun"
+    },
+    {
+      "pkdxnr": "62",
+      "name": "volbeat"
+    },
+    {
+      "pkdxnr": "63",
+      "name": "illumise"
+    },
+    {
+      "pkdxnr": "64",
+      "name": "roselia"
+    },
+    {
+      "pkdxnr": "65",
+      "name": "schluppuck"
+    },
+    {
+      "pkdxnr": "66",
+      "name": "schlukwech"
+    },
+    {
+      "pkdxnr": "67",
+      "name": "kanivanha"
+    },
+    {
+      "pkdxnr": "68",
+      "name": "tohaido"
+    },
+    {
+      "pkdxnr": "69",
+      "name": "wailmer"
+    },
+    {
+      "pkdxnr": "70",
+      "name": "wailord"
+    },
+    {
+      "pkdxnr": "71",
+      "name": "camaub"
+    },
+    {
+      "pkdxnr": "72",
+      "name": "camerupt"
+    },
+    {
+      "pkdxnr": "73",
+      "name": "qurtel"
+    },
+    {
+      "pkdxnr": "74",
+      "name": "spoink"
+    },
+    {
+      "pkdxnr": "75",
+      "name": "groink"
+    },
+    {
+      "pkdxnr": "76",
+      "name": "pandir"
+    },
+    {
+      "pkdxnr": "77",
+      "name": "knacklion"
+    },
+    {
+      "pkdxnr": "78",
+      "name": "vibrava"
+    },
+    {
+      "pkdxnr": "79",
+      "name": "libelldra"
+    },
+    {
+      "pkdxnr": "80",
+      "name": "tuska"
+    },
+    {
+      "pkdxnr": "81",
+      "name": "noktuska"
+    },
+    {
+      "pkdxnr": "82",
+      "name": "wablu"
+    },
+    {
+      "pkdxnr": "83",
+      "name": "altaria"
+    },
+    {
+      "pkdxnr": "84",
+      "name": "sengo"
+    },
+    {
+      "pkdxnr": "85",
+      "name": "vipitis"
+    },
+    {
+      "pkdxnr": "86",
+      "name": "lunastein"
+    },
+    {
+      "pkdxnr": "87",
+      "name": "sonnfel"
+    },
+    {
+      "pkdxnr": "88",
+      "name": "schmerbe"
+    },
+    {
+      "pkdxnr": "89",
+      "name": "welsar"
+    },
+    {
+      "pkdxnr": "90",
+      "name": "krebscorps"
+    },
+    {
+      "pkdxnr": "91",
+      "name": "krebutack"
+    },
+    {
+      "pkdxnr": "92",
+      "name": "puppance"
+    },
+    {
+      "pkdxnr": "93",
+      "name": "lepumentas"
+    },
+    {
+      "pkdxnr": "94",
+      "name": "liliep"
+    },
+    {
+      "pkdxnr": "95",
+      "name": "wielie"
+    },
+    {
+      "pkdxnr": "96",
+      "name": "anorith"
+    },
+    {
+      "pkdxnr": "97",
+      "name": "armaldo"
+    },
+    {
+      "pkdxnr": "98",
+      "name": "barschwa"
+    },
+    {
+      "pkdxnr": "99",
+      "name": "milotic"
+    },
+    {
+      "pkdxnr": "100",
+      "name": "formeo"
+    },
+    {
+      "pkdxnr": "101",
+      "name": "kecleon"
+    },
+    {
+      "pkdxnr": "102",
+      "name": "shuppet"
+    },
+    {
+      "pkdxnr": "103",
+      "name": "banette"
+    },
+    {
+      "pkdxnr": "104",
+      "name": "zwirrlicht"
+    },
+    {
+      "pkdxnr": "105",
+      "name": "zwirrklop"
+    },
+    {
+      "pkdxnr": "106",
+      "name": "tropius"
+    },
+    {
+      "pkdxnr": "107",
+      "name": "palimpalim"
+    },
+    {
+      "pkdxnr": "108",
+      "name": "absol"
+    },
+    {
+      "pkdxnr": "109",
+      "name": "isso"
+    },
+    {
+      "pkdxnr": "110",
+      "name": "schneppke"
+    },
+    {
+      "pkdxnr": "111",
+      "name": "firnontor"
+    },
+    {
+      "pkdxnr": "112",
+      "name": "seemops"
+    },
+    {
+      "pkdxnr": "113",
+      "name": "seejong"
+    },
+    {
+      "pkdxnr": "114",
+      "name": "walraisa"
+    },
+    {
+      "pkdxnr": "115",
+      "name": "perlu"
+    },
+    {
+      "pkdxnr": "116",
+      "name": "aalabyss"
+    },
+    {
+      "pkdxnr": "117",
+      "name": "saganabyss"
+    },
+    {
+      "pkdxnr": "118",
+      "name": "relicanth"
+    },
+    {
+      "pkdxnr": "119",
+      "name": "liebiskus"
+    },
+    {
+      "pkdxnr": "120",
+      "name": "kindwurm"
+    },
+    {
+      "pkdxnr": "121",
+      "name": "draschel"
+    },
+    {
+      "pkdxnr": "122",
+      "name": "brutalanda"
+    },
+    {
+      "pkdxnr": "123",
+      "name": "tanhel"
+    },
+    {
+      "pkdxnr": "124",
+      "name": "metang"
+    },
+    {
+      "pkdxnr": "125",
+      "name": "metagross"
+    },
+    {
+      "pkdxnr": "126",
+      "name": "regirock"
+    },
+    {
+      "pkdxnr": "127",
+      "name": "regice"
+    },
+    {
+      "pkdxnr": "128",
+      "name": "registeel"
+    },
+    {
+      "pkdxnr": "129",
+      "name": "latias"
+    },
+    {
+      "pkdxnr": "130",
+      "name": "latios"
+    },
+    {
+      "pkdxnr": "131",
+      "name": "kyogre"
+    },
+    {
+      "pkdxnr": "132",
+      "name": "groudon"
+    },
+    {
+      "pkdxnr": "133",
+      "name": "rayquaza"
+    },
+    {
+      "pkdxnr": "134",
+      "name": "jirachi"
+    },
+    {
+      "pkdxnr": "135",
+      "name": "deoxys"
+    }
+  ]

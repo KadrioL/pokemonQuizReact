@@ -1,0 +1,430 @@
+[
+    {
+      "pkdxnr": "1",
+      "name": "chelast"
+    },
+    {
+      "pkdxnr": "2",
+      "name": "chelcarain"
+    },
+    {
+      "pkdxnr": "3",
+      "name": "chelterrar"
+    },
+    {
+      "pkdxnr": "4",
+      "name": "panflam"
+    },
+    {
+      "pkdxnr": "5",
+      "name": "panpyro"
+    },
+    {
+      "pkdxnr": "6",
+      "name": "panferno"
+    },
+    {
+      "pkdxnr": "7",
+      "name": "plinfa"
+    },
+    {
+      "pkdxnr": "8",
+      "name": "pliprin"
+    },
+    {
+      "pkdxnr": "9",
+      "name": "impoleon"
+    },
+    {
+      "pkdxnr": "10",
+      "name": "staralili"
+    },
+    {
+      "pkdxnr": "11",
+      "name": "staravia"
+    },
+    {
+      "pkdxnr": "12",
+      "name": "staraptor"
+    },
+    {
+      "pkdxnr": "13",
+      "name": "bidiza"
+    },
+    {
+      "pkdxnr": "14",
+      "name": "bidifas"
+    },
+    {
+      "pkdxnr": "15",
+      "name": "zirpurze"
+    },
+    {
+      "pkdxnr": "16",
+      "name": "zirpeise"
+    },
+    {
+      "pkdxnr": "17",
+      "name": "sheinux"
+    },
+    {
+      "pkdxnr": "18",
+      "name": "luxio"
+    },
+    {
+      "pkdxnr": "19",
+      "name": "luxtra"
+    },
+    {
+      "pkdxnr": "20",
+      "name": "knospi"
+    },
+    {
+      "pkdxnr": "21",
+      "name": "roserade"
+    },
+    {
+      "pkdxnr": "22",
+      "name": "koknodon"
+    },
+    {
+      "pkdxnr": "23",
+      "name": "rameidon"
+    },
+    {
+      "pkdxnr": "24",
+      "name": "schilterus"
+    },
+    {
+      "pkdxnr": "25",
+      "name": "bollterus"
+    },
+    {
+      "pkdxnr": "26",
+      "name": "burmy"
+    },
+    {
+      "pkdxnr": "27",
+      "name": "burmadame"
+    },
+    {
+      "pkdxnr": "28",
+      "name": "moterpel"
+    },
+    {
+      "pkdxnr": "29",
+      "name": "wadribie"
+    },
+    {
+      "pkdxnr": "30",
+      "name": "honweisel"
+    },
+    {
+      "pkdxnr": "31",
+      "name": "pachirisu"
+    },
+    {
+      "pkdxnr": "32",
+      "name": "bamelin"
+    },
+    {
+      "pkdxnr": "33",
+      "name": "bojelin"
+    },
+    {
+      "pkdxnr": "34",
+      "name": "kikugi"
+    },
+    {
+      "pkdxnr": "35",
+      "name": "kinoso"
+    },
+    {
+      "pkdxnr": "36",
+      "name": "schalellos"
+    },
+    {
+      "pkdxnr": "37",
+      "name": "gastrodon"
+    },
+    {
+      "pkdxnr": "38",
+      "name": "ambidiffel"
+    },
+    {
+      "pkdxnr": "39",
+      "name": "driftlon"
+    },
+    {
+      "pkdxnr": "40",
+      "name": "drifzepeli"
+    },
+    {
+      "pkdxnr": "41",
+      "name": "haspiror"
+    },
+    {
+      "pkdxnr": "42",
+      "name": "schlapor"
+    },
+    {
+      "pkdxnr": "43",
+      "name": "traunmagil"
+    },
+    {
+      "pkdxnr": "44",
+      "name": "kramshef"
+    },
+    {
+      "pkdxnr": "45",
+      "name": "charmian"
+    },
+    {
+      "pkdxnr": "46",
+      "name": "shnurgarst"
+    },
+    {
+      "pkdxnr": "47",
+      "name": "klingplim"
+    },
+    {
+      "pkdxnr": "48",
+      "name": "skunkapuh"
+    },
+    {
+      "pkdxnr": "49",
+      "name": "skuntank"
+    },
+    {
+      "pkdxnr": "50",
+      "name": "bronzel"
+    },
+    {
+      "pkdxnr": "51",
+      "name": "bronzong"
+    },
+    {
+      "pkdxnr": "52",
+      "name": "mobai"
+    },
+    {
+      "pkdxnr": "53",
+      "name": "pantimimi"
+    },
+    {
+      "pkdxnr": "54",
+      "name": "wonneira"
+    },
+    {
+      "pkdxnr": "55",
+      "name": "plaudagei"
+    },
+    {
+      "pkdxnr": "56",
+      "name": "kryppuk"
+    },
+    {
+      "pkdxnr": "57",
+      "name": "kaumalat"
+    },
+    {
+      "pkdxnr": "58",
+      "name": "knarksel"
+    },
+    {
+      "pkdxnr": "59",
+      "name": "knakrack"
+    },
+    {
+      "pkdxnr": "60",
+      "name": "mampfaxo"
+    },
+    {
+      "pkdxnr": "61",
+      "name": "riolu"
+    },
+    {
+      "pkdxnr": "62",
+      "name": "lucario"
+    },
+    {
+      "pkdxnr": "63",
+      "name": "hippopotas"
+    },
+    {
+      "pkdxnr": "64",
+      "name": "hippoterus"
+    },
+    {
+      "pkdxnr": "65",
+      "name": "pionskora"
+    },
+    {
+      "pkdxnr": "66",
+      "name": "piondragi"
+    },
+    {
+      "pkdxnr": "67",
+      "name": "glibunkel"
+    },
+    {
+      "pkdxnr": "68",
+      "name": "toxiquak"
+    },
+    {
+      "pkdxnr": "69",
+      "name": "venuflibis"
+    },
+    {
+      "pkdxnr": "70",
+      "name": "finneon"
+    },
+    {
+      "pkdxnr": "71",
+      "name": "lumineon"
+    },
+    {
+      "pkdxnr": "72",
+      "name": "mantirps"
+    },
+    {
+      "pkdxnr": "73",
+      "name": "shnebedeck"
+    },
+    {
+      "pkdxnr": "74",
+      "name": "rexblisar"
+    },
+    {
+      "pkdxnr": "75",
+      "name": "snibunna"
+    },
+    {
+      "pkdxnr": "76",
+      "name": "magnezone"
+    },
+    {
+      "pkdxnr": "77",
+      "name": "schlurplek"
+    },
+    {
+      "pkdxnr": "78",
+      "name": "rihornior"
+    },
+    {
+      "pkdxnr": "79",
+      "name": "tangoloss"
+    },
+    {
+      "pkdxnr": "80",
+      "name": "elevoltek"
+    },
+    {
+      "pkdxnr": "81",
+      "name": "magbrant"
+    },
+    {
+      "pkdxnr": "82",
+      "name": "togekiss"
+    },
+    {
+      "pkdxnr": "83",
+      "name": "yanmega"
+    },
+    {
+      "pkdxnr": "84",
+      "name": "folipurba"
+    },
+    {
+      "pkdxnr": "85",
+      "name": "glaziola"
+    },
+    {
+      "pkdxnr": "86",
+      "name": "skorgro"
+    },
+    {
+      "pkdxnr": "87",
+      "name": "mamutel"
+    },
+    {
+      "pkdxnr": "88",
+      "name": "porygon-z"
+    },
+    {
+      "pkdxnr": "89",
+      "name": "galagladi"
+    },
+    {
+      "pkdxnr": "90",
+      "name": "voluminas"
+    },
+    {
+      "pkdxnr": "91",
+      "name": "zwirrfinst"
+    },
+    {
+      "pkdxnr": "92",
+      "name": "frosdedje"
+    },
+    {
+      "pkdxnr": "93",
+      "name": "rotom"
+    },
+    {
+      "pkdxnr": "94",
+      "name": "selfe"
+    },
+    {
+      "pkdxnr": "95",
+      "name": "vesprit"
+    },
+    {
+      "pkdxnr": "96",
+      "name": "tobutz"
+    },
+    {
+      "pkdxnr": "97",
+      "name": "dialga"
+    },
+    {
+      "pkdxnr": "98",
+      "name": "palkia"
+    },
+    {
+      "pkdxnr": "99",
+      "name": "heatran"
+    },
+    {
+      "pkdxnr": "100",
+      "name": "regigigas"
+    },
+    {
+      "pkdxnr": "101",
+      "name": "giratina"
+    },
+    {
+      "pkdxnr": "102",
+      "name": "cresselia"
+    },
+    {
+      "pkdxnr": "103",
+      "name": "phione"
+    },
+    {
+      "pkdxnr": "104",
+      "name": "manaphy"
+    },
+    {
+      "pkdxnr": "105",
+      "name": "darkrai"
+    },
+    {
+      "pkdxnr": "106",
+      "name": "shaymin"
+    },
+    {
+      "pkdxnr": "107",
+      "name": "arceus"
+    }
+  ]
