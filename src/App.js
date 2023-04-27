@@ -59,20 +59,20 @@ function App() {
 
     <Container fluid>
       <Row>
-        <Col sm={4} className="bg-secondary text-white d-flex justify-content-center align-items-center">
+        <Col sm={4} className="bg-#343a40 text-white d-flex justify-content-center align-items-center">
           <input id="userInput" className="form-control form-control-sm my-2" type="text" autoFocus onKeyUp={() => checkInput()} />
         </Col>
-        <Col sm={2} className="bg-secondary text-white d-flex justify-content-center align-items-center">
+        <Col sm={2} className="bg-#343a40 text-white d-flex justify-content-center align-items-center">
           <div>{counter}/{pokemonData.length}</div>
         </Col>
-        <Col sm={2} className="bg-secondary text-white d-flex justify-content-center align-items-center">
+        <Col sm={2} className="bg-#343a40 text-white d-flex justify-content-center align-items-center">
           <div>Timer</div>
         </Col>
-        <Col sm={2} className="bg-secondary text-white d-flex justify-content-center align-items-center">
+        <Col sm={2} className="bg-#343a40 text-white d-flex justify-content-center align-items-center">
           <div>SurrenderButton</div>
         </Col>
-        <Col sm={2} className="bg-secondary text-white d-flex justify-content-center align-items-center">
-          <select id="generation-select" value={selectedGeneration} onChange={handleGenerationChange}>
+        <Col sm={2} className="bg-#343a40 text-white d-flex justify-content-center align-items-center">
+          <select id="generation-select" className="custom-select px-3" value={selectedGeneration} onChange={handleGenerationChange}>
             <option value="1">Generation 1</option>
             <option value="2">Generation 2</option>
             <option value="3">Generation 3</option>
