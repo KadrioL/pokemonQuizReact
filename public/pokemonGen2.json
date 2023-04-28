@@ -1,402 +1,502 @@
 [
     {
       "pkdxnr": "1",
-      "name": "endivie"
-    },
+      "name": "endivie",
+      "sprite": "sprites/152.png"
+},
     {
       "pkdxnr": "2",
-      "name": "lorblatt"
-    },
+      "name": "lorblatt",
+      "sprite": "sprites/153.png"
+},
     {
       "pkdxnr": "3",
-      "name": "meganie"
-    },
+      "name": "meganie",
+      "sprite": "sprites/154.png"
+},
     {
       "pkdxnr": "4",
-      "name": "feurigel"
-    },
+      "name": "feurigel",
+      "sprite": "sprites/155.png"
+},
     {
       "pkdxnr": "5",
-      "name": "igelavar"
-    },
+      "name": "igelavar",
+      "sprite": "sprites/156.png"
+},
     {
       "pkdxnr": "6",
-      "name": "tornupto"
-    },
+      "name": "tornupto",
+      "sprite": "sprites/157.png"
+},
     {
       "pkdxnr": "7",
-      "name": "karnimani"
-    },
+      "name": "karnimani",
+      "sprite": "sprites/158.png"
+},
     {
       "pkdxnr": "8",
-      "name": "tyracroc"
-    },
+      "name": "tyracroc",
+      "sprite": "sprites/159.png"
+},
     {
       "pkdxnr": "9",
-      "name": "impergator"
-    },
+      "name": "impergator",
+      "sprite": "sprites/160.png"
+},
     {
       "pkdxnr": "10",
-      "name": "wiesor"
-    },
+      "name": "wiesor",
+      "sprite": "sprites/161.png"
+},
     {
       "pkdxnr": "11",
-      "name": "wiesenior"
-    },
+      "name": "wiesenior",
+      "sprite": "sprites/162.png"
+},
     {
       "pkdxnr": "12",
-      "name": "hoothoot"
-    },
+      "name": "hoothoot",
+      "sprite": "sprites/163.png"
+},
     {
       "pkdxnr": "13",
-      "name": "noctuh"
-    },
+      "name": "noctuh",
+      "sprite": "sprites/164.png"
+},
     {
       "pkdxnr": "14",
-      "name": "ledyba"
-    },
+      "name": "ledyba",
+      "sprite": "sprites/165.png"
+},
     {
       "pkdxnr": "15",
-      "name": "ledian"
-    },
+      "name": "ledian",
+      "sprite": "sprites/166.png"
+},
     {
       "pkdxnr": "16",
-      "name": "webarak"
-    },
+      "name": "webarak",
+      "sprite": "sprites/167.png"
+},
     {
       "pkdxnr": "17",
-      "name": "ariados"
-    },
+      "name": "ariados",
+      "sprite": "sprites/168.png"
+},
     {
       "pkdxnr": "18",
-      "name": "iksbat"
-    },
+      "name": "iksbat",
+      "sprite": "sprites/169.png"
+},
     {
       "pkdxnr": "19",
-      "name": "lampi"
-    },
+      "name": "lampi",
+      "sprite": "sprites/170.png"
+},
     {
       "pkdxnr": "20",
-      "name": "lanturn"
-    },
+      "name": "lanturn",
+      "sprite": "sprites/171.png"
+},
     {
       "pkdxnr": "21",
-      "name": "pichu"
-    },
+      "name": "pichu",
+      "sprite": "sprites/172.png"
+},
     {
       "pkdxnr": "22",
-      "name": "pii"
-    },
+      "name": "pii",
+      "sprite": "sprites/173.png"
+},
     {
       "pkdxnr": "23",
-      "name": "fluffeluff"
-    },
+      "name": "fluffeluff",
+      "sprite": "sprites/174.png"
+},
     {
       "pkdxnr": "24",
-      "name": "togepi"
-    },
+      "name": "togepi",
+      "sprite": "sprites/175.png"
+},
     {
       "pkdxnr": "25",
-      "name": "togetic"
-    },
+      "name": "togetic",
+      "sprite": "sprites/176.png"
+},
     {
       "pkdxnr": "26",
-      "name": "natu"
-    },
+      "name": "natu",
+      "sprite": "sprites/177.png"
+},
     {
       "pkdxnr": "27",
-      "name": "xatu"
-    },
+      "name": "xatu",
+      "sprite": "sprites/178.png"
+},
     {
       "pkdxnr": "28",
-      "name": "voltilamm"
-    },
+      "name": "voltilamm",
+      "sprite": "sprites/179.png"
+},
     {
       "pkdxnr": "29",
-      "name": "waaty"
-    },
+      "name": "waaty",
+      "sprite": "sprites/180.png"
+},
     {
       "pkdxnr": "30",
-      "name": "ampharos"
-    },
+      "name": "ampharos",
+      "sprite": "sprites/181.png"
+},
     {
       "pkdxnr": "31",
-      "name": "blubella"
-    },
+      "name": "blubella",
+      "sprite": "sprites/182.png"
+},
     {
       "pkdxnr": "32",
-      "name": "marill"
-    },
+      "name": "marill",
+      "sprite": "sprites/183.png"
+},
     {
       "pkdxnr": "33",
-      "name": "azumarill"
-    },
+      "name": "azumarill",
+      "sprite": "sprites/184.png"
+},
     {
       "pkdxnr": "34",
-      "name": "mogelbaum"
-    },
+      "name": "mogelbaum",
+      "sprite": "sprites/185.png"
+},
     {
       "pkdxnr": "35",
-      "name": "quaxo"
-    },
+      "name": "quaxo",
+      "sprite": "sprites/186.png"
+},
     {
       "pkdxnr": "36",
-      "name": "hoppspross"
-    },
+      "name": "hoppspross",
+      "sprite": "sprites/187.png"
+},
     {
       "pkdxnr": "37",
-      "name": "hubelupf"
-    },
+      "name": "hubelupf",
+      "sprite": "sprites/188.png"
+},
     {
       "pkdxnr": "38",
-      "name": "papungha"
-    },
+      "name": "papungha",
+      "sprite": "sprites/189.png"
+},
     {
       "pkdxnr": "39",
-      "name": "griffel"
-    },
+      "name": "griffel",
+      "sprite": "sprites/190.png"
+},
     {
       "pkdxnr": "40",
-      "name": "sonnkern"
-    },
+      "name": "sonnkern",
+      "sprite": "sprites/191.png"
+},
     {
       "pkdxnr": "41",
-      "name": "sonnflora"
-    },
+      "name": "sonnflora",
+      "sprite": "sprites/192.png"
+},
     {
       "pkdxnr": "42",
-      "name": "yanma"
-    },
+      "name": "yanma",
+      "sprite": "sprites/193.png"
+},
     {
       "pkdxnr": "43",
-      "name": "felino"
-    },
+      "name": "felino",
+      "sprite": "sprites/194.png"
+},
     {
       "pkdxnr": "44",
-      "name": "morlord"
-    },
+      "name": "morlord",
+      "sprite": "sprites/195.png"
+},
     {
       "pkdxnr": "45",
-      "name": "psiana"
-    },
+      "name": "psiana",
+      "sprite": "sprites/196.png"
+},
     {
       "pkdxnr": "46",
-      "name": "nachtara"
-    },
+      "name": "nachtara",
+      "sprite": "sprites/197.png"
+},
     {
       "pkdxnr": "47",
-      "name": "kramurx"
-    },
+      "name": "kramurx",
+      "sprite": "sprites/198.png"
+},
     {
       "pkdxnr": "48",
-      "name": "laschoking"
-    },
+      "name": "laschoking",
+      "sprite": "sprites/199.png"
+},
     {
       "pkdxnr": "49",
-      "name": "traunfugil"
-    },
+      "name": "traunfugil",
+      "sprite": "sprites/200.png"
+},
     {
       "pkdxnr": "50",
-      "name": "icognito"
-    },
+      "name": "icognito",
+      "sprite": "sprites/201.png"
+},
     {
       "pkdxnr": "51",
-      "name": "woingenau"
-    },
+      "name": "woingenau",
+      "sprite": "sprites/202.png"
+},
     {
       "pkdxnr": "52",
-      "name": "girafarig"
-    },
+      "name": "girafarig",
+      "sprite": "sprites/203.png"
+},
     {
       "pkdxnr": "53",
-      "name": "tannza"
-    },
+      "name": "tannza",
+      "sprite": "sprites/204.png"
+},
     {
       "pkdxnr": "54",
-      "name": "forstellka"
-    },
+      "name": "forstellka",
+      "sprite": "sprites/205.png"
+},
     {
       "pkdxnr": "55",
-      "name": "dummisel"
-    },
+      "name": "dummisel",
+      "sprite": "sprites/206.png"
+},
     {
       "pkdxnr": "56",
-      "name": "skorgla"
-    },
+      "name": "skorgla",
+      "sprite": "sprites/207.png"
+},
     {
       "pkdxnr": "57",
-      "name": "stahlos"
-    },
+      "name": "stahlos",
+      "sprite": "sprites/208.png"
+},
     {
       "pkdxnr": "58",
-      "name": "snubbull"
-    },
+      "name": "snubbull",
+      "sprite": "sprites/209.png"
+},
     {
       "pkdxnr": "59",
-      "name": "granbull"
-    },
+      "name": "granbull",
+      "sprite": "sprites/210.png"
+},
     {
       "pkdxnr": "60",
-      "name": "baldorfish"
-    },
+      "name": "baldorfish",
+      "sprite": "sprites/211.png"
+},
     {
       "pkdxnr": "61",
-      "name": "scherox"
-    },
+      "name": "scherox",
+      "sprite": "sprites/212.png"
+},
     {
       "pkdxnr": "62",
-      "name": "pottrott"
-    },
+      "name": "pottrott",
+      "sprite": "sprites/213.png"
+},
     {
       "pkdxnr": "63",
-      "name": "skaraborn"
-    },
+      "name": "skaraborn",
+      "sprite": "sprites/214.png"
+},
     {
       "pkdxnr": "64",
-      "name": "sniebel"
-    },
+      "name": "sniebel",
+      "sprite": "sprites/215.png"
+},
     {
       "pkdxnr": "65",
-      "name": "teddiursa"
-    },
+      "name": "teddiursa",
+      "sprite": "sprites/216.png"
+},
     {
       "pkdxnr": "66",
-      "name": "ursaring"
-    },
+      "name": "ursaring",
+      "sprite": "sprites/217.png"
+},
     {
       "pkdxnr": "67",
-      "name": "schneckmag"
-    },
+      "name": "schneckmag",
+      "sprite": "sprites/218.png"
+},
     {
       "pkdxnr": "68",
-      "name": "magcargo"
-    },
+      "name": "magcargo",
+      "sprite": "sprites/219.png"
+},
     {
       "pkdxnr": "69",
-      "name": "quiekel"
-    },
+      "name": "quiekel",
+      "sprite": "sprites/220.png"
+},
     {
       "pkdxnr": "70",
-      "name": "keifel"
-    },
+      "name": "keifel",
+      "sprite": "sprites/221.png"
+},
     {
       "pkdxnr": "71",
-      "name": "corasonn"
-    },
+      "name": "corasonn",
+      "sprite": "sprites/222.png"
+},
     {
       "pkdxnr": "72",
-      "name": "remoraid"
-    },
+      "name": "remoraid",
+      "sprite": "sprites/223.png"
+},
     {
       "pkdxnr": "73",
-      "name": "octillery"
-    },
+      "name": "octillery",
+      "sprite": "sprites/224.png"
+},
     {
       "pkdxnr": "74",
-      "name": "botogel"
-    },
+      "name": "botogel",
+      "sprite": "sprites/225.png"
+},
     {
       "pkdxnr": "75",
-      "name": "mantax"
-    },
+      "name": "mantax",
+      "sprite": "sprites/226.png"
+},
     {
       "pkdxnr": "76",
-      "name": "panzaeron"
-    },
+      "name": "panzaeron",
+      "sprite": "sprites/227.png"
+},
     {
       "pkdxnr": "77",
-      "name": "hunduster"
-    },
+      "name": "hunduster",
+      "sprite": "sprites/228.png"
+},
     {
       "pkdxnr": "78",
-      "name": "hundemon"
-    },
+      "name": "hundemon",
+      "sprite": "sprites/229.png"
+},
     {
       "pkdxnr": "79",
-      "name": "seedraking"
-    },
+      "name": "seedraking",
+      "sprite": "sprites/230.png"
+},
     {
       "pkdxnr": "80",
-      "name": "phanpy"
-    },
+      "name": "phanpy",
+      "sprite": "sprites/231.png"
+},
     {
       "pkdxnr": "81",
-      "name": "donphan"
-    },
+      "name": "donphan",
+      "sprite": "sprites/232.png"
+},
     {
       "pkdxnr": "82",
-      "name": "porygon-"
-    },
+      "name": "porygon-",
+      "sprite": "sprites/233.png"
+},
     {
       "pkdxnr": "83",
-      "name": "damhirplex"
-    },
+      "name": "damhirplex",
+      "sprite": "sprites/234.png"
+},
     {
       "pkdxnr": "84",
-      "name": "farbeagle"
-    },
+      "name": "farbeagle",
+      "sprite": "sprites/235.png"
+},
     {
       "pkdxnr": "85",
-      "name": "rabauz"
-    },
+      "name": "rabauz",
+      "sprite": "sprites/236.png"
+},
     {
       "pkdxnr": "86",
-      "name": "kapoera"
-    },
+      "name": "kapoera",
+      "sprite": "sprites/237.png"
+},
     {
       "pkdxnr": "87",
-      "name": "kussilla"
-    },
+      "name": "kussilla",
+      "sprite": "sprites/238.png"
+},
     {
       "pkdxnr": "88",
-      "name": "elekid"
-    },
+      "name": "elekid",
+      "sprite": "sprites/239.png"
+},
     {
       "pkdxnr": "89",
-      "name": "magby"
-    },
+      "name": "magby",
+      "sprite": "sprites/240.png"
+},
     {
       "pkdxnr": "90",
-      "name": "miltank"
-    },
+      "name": "miltank",
+      "sprite": "sprites/241.png"
+},
     {
       "pkdxnr": "91",
-      "name": "heiteira"
-    },
+      "name": "heiteira",
+      "sprite": "sprites/242.png"
+},
     {
       "pkdxnr": "92",
-      "name": "raikou"
-    },
+      "name": "raikou",
+      "sprite": "sprites/243.png"
+},
     {
       "pkdxnr": "93",
-      "name": "entei"
-    },
+      "name": "entei",
+      "sprite": "sprites/244.png"
+},
     {
       "pkdxnr": "94",
-      "name": "suicune"
-    },
+      "name": "suicune",
+      "sprite": "sprites/245.png"
+},
     {
       "pkdxnr": "95",
-      "name": "larvitar"
-    },
+      "name": "larvitar",
+      "sprite": "sprites/246.png"
+},
     {
       "pkdxnr": "96",
-      "name": "pupitar"
-    },
+      "name": "pupitar",
+      "sprite": "sprites/247.png"
+},
     {
       "pkdxnr": "97",
-      "name": "despotar"
-    },
+      "name": "despotar",
+      "sprite": "sprites/248.png"
+},
     {
       "pkdxnr": "98",
-      "name": "lugia"
-    },
+      "name": "lugia",
+      "sprite": "sprites/249.png"
+},
     {
       "pkdxnr": "99",
-      "name": "ho-oh"
-    },
+      "name": "ho-oh",
+      "sprite": "sprites/250.png"
+},
     {
       "pkdxnr": "100",
-      "name": "celebi"
-    }
+      "name": "celebi",
+      "sprite": "sprites/251.png"
+}
   ]
