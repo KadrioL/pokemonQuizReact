@@ -21,7 +21,7 @@ const CustomTable = (props) => {
       <tr key={pokemonData[i].pkdxnr}>
       {
         pokemonData.slice(i, i + 3)
-          .map(pokemon => <td key={pokemon.pkdxnr} className="col-md-4"><b>{pokemon.pkdxnr}:</b><i id={pokemon.pkdxnr} hidden={true}> {capitalizeFirstLetter(pokemon.name)}</i></td>)
+          .map(pokemon => <td key={pokemon.pkdxnr} className="col-md-4"><b>{pokemon.pkdxnr}:</b><i id={pokemon.pkdxnr} hidden={true}> {capitalizeFirstLetter(pokemon.name)} </i></td>)
       }
       </tr>
     );

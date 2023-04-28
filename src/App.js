@@ -74,7 +74,9 @@ function App() {
     document.getElementById('userInput').disabled = true;
 
   };
-  
+  const handleAllPokemonFound = () => {
+    window.alert("Hurra du hast alle Pokemon dieser Generation erraten")
+  }
 
   function checkInput() {
     const userInput = document.getElementById('userInput').value.toLowerCase();
@@ -84,6 +86,7 @@ function App() {
         document.getElementById('29').removeAttribute('hidden');
         document.getElementById('32').removeAttribute('hidden');
         setCounter(counter + 2);
+        console.log(counter);
       } else {
         const matchingElement = document.getElementById(matchingPokemon.pkdxnr);
         if (matchingElement.getAttribute('hidden') === null) {
@@ -94,6 +97,9 @@ function App() {
         setCounter(counter + 1);
       }
       document.getElementById('userInput').value = "";
+    }
+    if (counter === pokemonData.length){
+      handleAllPokemonFound();
     }
   }
 
@@ -111,7 +117,7 @@ function App() {
           <div><Countdown date={timerStartTime} renderer={renderer} /></div>
         </Col>
         <Col sm={2} className="bg-#343a40 text-white d-flex justify-content-center align-items-center">
-          <div><button onClick={handleSurrender}>Surrender</button></div>
+          <div><button className="btn btn-outline-light" onClick={handleSurrender}>Surrender</button></div>
         </Col>
         <Col sm={2} className="bg-#343a40 text-white d-flex justify-content-center align-items-center">
           <select id="generation-select" className="custom-select px-3" value={selectedGeneration} onChange={handleGenerationChange}>
